@@ -1,0 +1,38 @@
+
+.container{
+    border: 2px solid black;
+    margin:auto;
+    padding: 20px;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.623);
+    
+    
+}
+header{
+    font-size: 1.7rem;
+}
+.names{
+ font-weight: bold;
+ font-size: 1.5rem;
+  }
+
+  .names label,input{
+    height: 2rem;
+    display: block;
+    width: 400px;
+    margin-top: 20px;
+  }
+
+  h3{
+    font-size: 1.5rem;
+  }
+
+  textarea{
+    resize: none;
+  }
+
+  body{
+    background-image: url(./4K-Ball-Basketball-Bench-Wallpaper-3840x2160.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
